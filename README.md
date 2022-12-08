@@ -8,33 +8,31 @@ helenetran3/helenetran3 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-*English version coming soon!*
+🙋‍ **Who am I?** 
+- A young woman with a double Master degree and currently a second year Ph.D. student, who is always embracing new opportunities to develop my technical background and personal skills
+- Open to the world and love contributing to the well-being of our society
+- Always here to bring my smile and my positivity!
 
-🙋‍ **Qui suis-je ?** 
-- Une jeune double-diplômée étudiante en thèse, avec une bonne soif d'apprendre
-- Ouverte au monde et engagée pour le bien-être de notre société
-- Toujours là pour vous apporter mon sourire et ma positivité !
+💓 **What I love**
+- Programming and Artificial Intelligence, especially computer vision and NLP
+- Personal development through acting, reading, and traveling
+- Discovering new cultures through social interaction
+- Engaging in projects that serve our society
 
-💓 **Ce que j'aime**
-- La programmation et l'intelligence artificielle, plus particulièrement la vision par ordinateur et un intérêt pour le traitement de langage naturel
-- Le développement personnel à travers le théâtre, la lecture et le voyage
-- Découvrir de nouvelles cultures par l'interaction sociale
-- M'engager dans des projets au service de notre société
+📌 **My current status**
+- Second year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
+- My thesis is about ***multimodal emotion recognition (voice, image, text)*** using Machine Learning techniques. \
+  *Final use: Estimate the motivation of patients with chronic and mental diseases in their remote therapeutic education*
 
-📌 **Mon statut actuel**
-- Deuxième année de thèse CIFRE au laboratoire LIMOS et Jeolis Solutions à Clermont-Ferrand
-- Je travaille sur la reconnaissance automatique des émotions multimodales \
-  *Pour estimer la motivation du patient atteint d'une maladie chronique ou mentale dans son éducation thérapeutique effectuée à distance*
+ 🚑 **My social and humanitarian projects**
+- Actively involved in a humanitarian group project to teach the use of basic software programs in a Nepalese school
+- Workshop facilitator for the Declick program, which promotes the discovery of computer science in high schools through game development
+- Former president of two student associations, one promoting the integration of foreign students and the other the accomplishment of humanitarian projects
 
- 🚑 **Mes projets sociaux et humanitaires, un sacré bagage !**
-- Activement participé à l'élaboration d'un projet humanitaire au Népal pour donner des cours de bureautique dans une école au cœur du Mustang
-- Animatrice d'atelier pour la découverte de l'informatique au collège à travers le développement de jeux
-- Ancienne présidente de deux associations étudiantes, l'une promouvant l'intégration des étudiants étrangers et l'autre l'accomplissement de projets humanitaires
+💻 **My professional experiences, all with a social dimension**
+- Front-End developer of an open-source radiotherapy research platform
+- AI research intern for the classification of prostate cancer tumors
+- Cashier, receptionist, pastry saleswoman in a supermarket
 
-💻 **Mes expériences professionnelles, toutes de dimension sociale**
-- Développeuse Front-End d'une plateforme open-source de recherche en radiothérapie
-- Stagiaire de recherche IA pour la classification des tumeurs cancéreuses de la prostate
-- Hôtesse de caisse, agente d'accueil, vendeuse en pâtisserie dans un supermarché
-
-🌄 **Le mot de la fin**
-- N'hésitez à me contacter, je serai ravie de vous répondre ! Bonne journée et prenez soin de vous :)
+🌄 **The final word**
+- Feel free to contact me, I will be happy to have a chat with you! Have a nice day and take care of yourself :)
