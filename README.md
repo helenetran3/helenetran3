@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 📌 **My current status**
 - Second year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
-- My thesis is about ***multimodal emotion recognition (voice, image, text)*** using Machine Learning techniques. \
+- My thesis is about **multimodal emotion recognition (voice, image, text)** using Machine Learning techniques. \
   *Final use: Estimate the motivation of patients with chronic and mental diseases in their remote therapeutic education*
 
  🚑 **My social and humanitarian projects**
