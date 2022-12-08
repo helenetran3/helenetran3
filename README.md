@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 - Former president of two student associations, one promoting the integration of foreign students and the other the accomplishment of humanitarian projects
 
 💻 **My professional experiences, all with a social dimension**
-- Front-End developer of an open-source radiotherapy research platform
-- AI research intern for the classification of prostate cancer tumors
+- Front-End developer of [OnkoDICOM](https://github.com/didymo/OnkoDICOM), an open-source radiotherapy research platform
+- AI research intern in Guerbet for the classification of prostate cancer tumors
 - Cashier, receptionist, pastry saleswoman in a supermarket
 
 🌄 **The final word**
