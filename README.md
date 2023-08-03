@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🙋‍ **Who am I?** 
-- A young woman with a double Master degree and currently a second year Ph.D. student, who is always embracing new opportunities to develop my technical background and personal skills
+- A young woman with a double Master degree and currently a second year Ph.D. student, who embraces any new opportunities to develop my technical background and personal skills
 - Open to the world and love contributing to the well-being of our society
 - Always here to bring my smile and my positivity!
 
@@ -20,12 +20,13 @@ You can click the Preview link to take a look at your changes.
 - Engaging in projects that serve our society
 
 📌 **My current status**
-- Second year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
+- Third year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
 - My thesis is about **multimodal emotion recognition (voice, image, text)** using Machine Learning techniques. \
   *Final use: Estimate the motivation of patients with chronic and mental diseases in their remote therapeutic education*
 
  🚑 **My social and humanitarian projects**
-- Actively involved in a humanitarian group project to teach the use of basic software programs in a Nepalese school
+- Been joining a drama club for 2 years now
+- Been actively involved in a humanitarian group project to teach the use of basic software programs in a Nepalese school
 - Workshop facilitator for the Declick program, which promotes the discovery of computer science in high schools through game development
 - Former president of two student associations, one promoting the integration of foreign students and the other the accomplishment of humanitarian projects
 
