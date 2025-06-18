@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🙋‍ **Who am I?** 
-- Double Master degree graduate and currently a third year Ph.D. student, who embraces any new opportunities to develop my technical background and personal skills
+- Double Master degree graduate and currently a final year Ph.D. student, who embraces any new opportunities to develop my technical background and personal skills
 - Open to new cultures and love thinking about how to make the world better through my professional and personal activities
 - Always good vibes!
 
 📌 **My current status**
-- Third year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
+- Final year Ph.D. student at the LIMOS laboratory and at Jeolis Solutions company in Clermont-Ferrand, France
 - My thesis is about **multimodal emotion recognition (voice, image, text)** using Machine Learning techniques. \
   *Final use: Estimate the motivation of patients with chronic and mental diseases in their remote therapeutic education*
 
